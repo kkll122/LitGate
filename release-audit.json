@@ -1,0 +1,61 @@
+{
+  "release_date": "2026-10-20",
+  "archive": "dist/LitGate.zip",
+  "archive_sha256": "8a76046a9a47768bddab71f81c3d3626e39ba6bf8466a3cb8743e1287a5ee751",
+  "archive_files": 8,
+  "core_matches_previously_verified_release": true,
+  "known_private_value_matches": 0,
+  "credential_pattern_matches": 0,
+  "scan_encodings": [
+    "plain",
+    "base64",
+    "hex",
+    "percent-encoded"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "29509ac42702b2ff9a735c158845d870516ed5512c6cd63d49dd48d1c547332e"
+    },
+    {
+      "path": "deploy.py",
+      "sha256": "35d8f489c0660fd7ea91d439b396a8990046ec794c966726e96b644cae42944f"
+    },
+    {
+      "path": "dist/LitGate.zip",
+      "sha256": "8a76046a9a47768bddab71f81c3d3626e39ba6bf8466a3cb8743e1287a5ee751"
+    },
+    {
+      "path": "install.ps1",
+      "sha256": "7f711e34e9e7a142c4705dbde3f4d82e38f7654a39d300c0ab9b380a98557452"
+    },
+    {
+      "path": "litgate.py",
+      "sha256": "e1cfe61fabdd7435024235ce13a561521ca830f2dcd544628144274b23db6677"
+    },
+    {
+      "path": "mcp_client.py",
+      "sha256": "c7beb5c618aa4454805f827cbbee329a50818d8d6466e9bca37d76978b64c586"
+    },
+    {
+      "path": "README.md",
+      "sha256": "feae4756a41411546829e954d2d924f2e45b265e419f10aeea90d5f9214b04d7"
+    },
+    {
+      "path": "register-mcp.ps1",
+      "sha256": "ae662e67d02b70f409a7e66c03be1a962485785c996a2a5ebc276b4e504500e4"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "f3ff6529dbfd7a8b7a7014b421477ee443931f75d17cc583bde7e81e0152b64a"
+    },
+    {
+      "path": "search_core.py",
+      "sha256": "64190764aa9c3457d4c8cbd6dad828f6b61b3a1534736f4681d00f6936652bd7"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "7e373ba3f48bb1fb6f2281a5acd861c35129773bc1a5fa9d6e99dbf41b911b28"
+    }
+  ]
+}
